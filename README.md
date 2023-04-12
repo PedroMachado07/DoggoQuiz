@@ -5,7 +5,7 @@
 
 
 ## Layout 
-![Web 1](doggos img.png)
+![Web 1](https://github.com/PedroMachado07/DoggoQuiz/blob/master/doggos%20img.png)
 
 
 
