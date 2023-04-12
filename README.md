@@ -2,7 +2,7 @@
 
 
 # About the project
-
+It's a dog breed quiz, with three options. Each time the page is started it opens a different quiz based on an API.
 
 ## Layout 
 ![Web 1](https://github.com/PedroMachado07/DoggoQuiz/blob/master/doggos%20img.png)
@@ -11,15 +11,15 @@
 
 
 
-# Tecnologias utilizadas
+# Technologies used
 
-- HTML / CSS 
-
-
+- HTML / CSS / JavaScript
 
 
 
-# Autor
+
+
+#Author
 
 Pedro Brasil Machado
 
