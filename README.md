@@ -5,7 +5,7 @@
 
 
 ## Layout 
-![Web 1]("C:\Users\pedro\OneDrive\Área de Trabalho\Dev Web\study\FrontEndMasters\DoggoQuiz\doggos img.png")
+![Web 1](doggos img.png")
 
 
 
